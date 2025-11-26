@@ -24,3 +24,5 @@ jobs:
             git reset --hard origin/prod
             git checkout prod
             git pull origin prod
+            php bin/console asset-map:compile
+            php bin/console c:c
