@@ -19,7 +19,7 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_KEY }}
           script: |
-            cd /var/www/html/
+            cd /var/www/portfolio/
             git fetch origin
             git checkout prod
             git pull origin prod
