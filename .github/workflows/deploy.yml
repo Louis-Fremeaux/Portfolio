@@ -24,7 +24,5 @@ jobs:
             git checkout prod
             git pull origin prod
             
-            composer install --no-dev --optimize-autoloader
             php bin/console cache:clear --env=prod
             php bin/console cache:warmup --env=prod
-            systemctl restart php8.2-fpm
