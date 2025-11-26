@@ -24,6 +24,3 @@ jobs:
             git reset --hard origin/prod
             git checkout prod
             git pull origin prod
-            php bin/console cache:clear --env=prod
-            php bin/console cache:warmup --env=prod
-
