@@ -4,9 +4,18 @@
 {% block title %}Louis Fremeaux{% endblock %}
 
 {% block body %}
-<div>
-    <h2>Louis Fremeaux</h2>
-    <h1>Développeur Full-Stack</h1>
+<div class="flex flex-col items-center w-full h-screen pt-20">
+    <img class="rounded-full w-3xs border-2" src="{{ asset('images/pp.jpeg') }}" alt="image">
+    <div class="p-2 flex flex-col items-center">
+        <h2 class="uppercase p-2 text-2xl font-bold ">Louis Fremeaux</h2>
+        <h1 class="p-2 text-2xl">Développeur Full-Stack</h1>
+        <p class="p-2 text-2xl">Etudiant en BTS-SIO, passionné d'informatique et sportif.</p>
+    </div>
+    <div class="p-5">
+        <a class="button capitalize" href="{{ path('home') }}">à propos</a>
+        <a class="button" href="{{ path('project') }}">Projets</a>
+    </div>
+
 </div>
 {% endblock %}
 

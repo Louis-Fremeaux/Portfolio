@@ -1,3 +1,17 @@
 body {
-    background-color: #262626;
+    background-color: #121212;
+    color: white;
+}
+.text-gold
+{
+    color: goldenrod;
+}
+.button
+{
+    background-color: goldenrod;
+
+    margin: 2em auto;
+    padding: 10px 20px;
+    color:#121212;
+    border-radius: 5px;
 }
