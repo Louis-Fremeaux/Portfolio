@@ -1,12 +1,26 @@
 {% extends 'base/base.html.twig' %}
 {% use 'base/header.html.twig' %}
 
-{% block title %}Louis - Certification{% endblock %}
+{% block title %}Louis - Certifications{% endblock %}
 {% block body %}
+    <div class="bg-gris mt-10 mb-10 ml-50 mr-50 pt-10 rounded-xl">
+        <div class="flex justify-center align-center">
+            <h1 class="text-2xl">Voici les certifications que j'ai obtenue à ce jours.</h1>
+        </div>
+        <div class="Badge flex justify-center align-center p-5 pl-10 pr-10">
+            <div class="flex justify-between align-center flex-wrap">
+                <div class="rounded-lg bg-white m-10">
+                    <div class="ma-10" data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5e2939ee-3a29-4d4c-a8c8-3d1b26262549" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+                </div>
+                <div class="rounded-lg bg-white m-10">
+                    <div class="ma-10" data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b1572beb-54ec-4103-8c5f-327fe00e54ce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+                </div>
+                <div class="rounded-lg m-10">
+                    <img style="width:22em;height:15em;" src="{{ asset('images/attestationmooc.png') }}" alt="Attestation mooc de l'anssi">
+                </div>
+            </div>
+        </div>
+    </div>
 
-<div class="Badge">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5e2939ee-3a29-4d4c-a8c8-3d1b26262549" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b1572beb-54ec-4103-8c5f-327fe00e54ce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
 {% endblock %}
 {% use 'base/footer.html.twig' %}
