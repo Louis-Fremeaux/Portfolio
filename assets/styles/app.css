@@ -13,7 +13,14 @@ body {
 .button
 {
     background-color: goldenrod;
-
+    margin: 2em auto;
+    padding: 10px 20px;
+    color:#121212;
+    border-radius: 5px;
+}
+.button:hover
+{
+    background-color: darkgoldenrod;
     margin: 2em auto;
     padding: 10px 20px;
     color:#121212;
