@@ -7,10 +7,19 @@
         <div class="flex justify-center align-center">
             <h1 class="text-2xl">Voici mes projets</h1>
         </div>
-        <div class="Badge flex justify-center align-center p-5 pl-10 pr-10">
-            <div class="flex justify-between align-center flex-wrap">
-
-            </div>
+        <div class="Badge flex justify-between p-5 pl-10 pr-10">
+            {% for project in projects %}
+                <div class="bg-gray-600 p-2 rounded-xl w-50 shadow-[0_0px_15px_rgba(0,0,0,0.3)] transition duration-400 ease-in-out hover:scale-110">
+                    <h2 class="text-black text-2xl">{{ project.title }}</h2>
+                    {% if project.image %}
+                        <div class="p-2 flex justify-center align-center">
+                            <img src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="150" height="150">
+                        </div>
+                    {% endif %}
+                    <p class="text-black">{{ project.text }}</p>
+                    <a class="text-gold" href="/project/{{ project.id }}">Voir le projet</a>
+                </div>
+            {% endfor %}
         </div>
     </div>
 

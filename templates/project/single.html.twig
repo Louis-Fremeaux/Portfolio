@@ -1,0 +1,24 @@
+{% extends 'base/base.html.twig' %}
+{% use 'base/header.html.twig' %}
+
+{% block title %}Louis - Projets{% endblock %}
+{% block body %}
+    <div class="bg-gris mt-10 mb-10 ml-50 mr-50 pt-5 pb-5 rounded-xl">
+        <a class="text-gold pl-5" href="{{ path('project') }}">← Listes Projets</a>
+        {% if project %}
+            <div class="p-2 flex justify-center flex-col">
+                <h1 class="text-2xl">{{ project.title }}</h1>
+                {% if project.image %}
+                    <img src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="250" height="250">
+                {% endif %}
+            </div>
+
+        {% else %}
+                <div class="flex justify-center align-center">
+                    <h1 class="text-2xl">Erreur</h1>
+                </div>
+        {% endif %}
+    </div>
+
+{% endblock %}
+{% use 'base/footer.html.twig' %}
