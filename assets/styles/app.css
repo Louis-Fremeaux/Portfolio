@@ -10,6 +10,9 @@ body {
 .bg-gris{
     background-color: #262626;
 }
+.bg-gris-foncer{
+    background-color: #121212;
+}
 .button
 {
     background-color: goldenrod;
