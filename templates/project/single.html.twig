@@ -6,12 +6,20 @@
     <div class="bg-gris mt-10 mb-10 ml-50 mr-50 pt-5 pb-5 rounded-xl">
         <a class="text-gold pl-5" href="{{ path('project') }}">← Listes Projets</a>
         {% if project %}
-            <div class="p-2 flex justify-center flex-col">
-                <h1 class="text-2xl">{{ project.title }}</h1>
+            <div class="p-5 flex items-center justify-around">
+                <h1 class="text-2xl p-5 text-5xl">{{ project.title }}</h1>
                 {% if project.image %}
-                    <img src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="250" height="250">
+                    <img src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="200" height="200">
                 {% endif %}
             </div>
+            {% if paragraphes %}
+                <div class="p-5">
+                    {% for paragraphe in paragraphes %}
+                        <h2 class="text-3xl underline">{{ paragraphe.titre }}</h2>
+                        <p>{{ paragraphe.text }}</p>
+                    {% endfor %}
+                </div>
+            {% endif %}
 
         {% else %}
                 <div class="flex justify-center align-center">
