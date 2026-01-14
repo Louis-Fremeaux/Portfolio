@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Entity\Paragraphe;
 use App\Entity\Project;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
@@ -23,9 +24,11 @@ final class ProjectController extends AbstractController
     public function projectId(EntityManagerInterface $entityManager, int $id): Response
     {
         $project = $entityManager->getRepository(Project::class)->find($id);
+        $paragraphes = $entityManager->getRepository(Paragraphe::class)->findBy(['id_project' => $id]);
         return $this->render('project/single.html.twig', [
             'controller_name' => 'ProjectController',
-            'project'=>$project
+            'project'=>$project,
+            'paragraphes'=>$paragraphes
         ]);
     }
 }
