@@ -13,7 +13,7 @@
                     <h2 class="text-black text-2xl">{{ project.title }}</h2>
                     {% if project.image %}
                         <div class="p-2 flex justify-center align-center">
-                            <img src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="150" height="150">
+                            <img class="rounded-xl" src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="150" height="150">
                         </div>
                     {% endif %}
                     <p class="text-black">{{ project.text }}</p>
