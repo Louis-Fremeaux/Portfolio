@@ -10,9 +10,13 @@
         <h2 class="uppercase p-5 text-4xl font-bold">Louis Fremeaux</h2>
         <p class="p-5 text-base text-center">Étudiant en BTS SIO et passionné par le développement,<br>je me forme activement pour devenir développeur full-stack.<br>Curieux et motivé, je progresse chaque jour à travers mes<br>projets et les défis techniques que je me lance.</p>
     </div>
-    <div class="">
-        <a class="button capitalize" href="{{ path('about') }}">à propos</a>
-        <a class="button" href="{{ path('project') }}">Projets</a>
+    <div class="flex flex-row items-center justify-center">
+        <div class="p-2 transition duration-100 ease-in-out hover:scale-95">
+            <a class="button capitalize" href="{{ path('about') }}">à propos</a>
+        </div>
+        <div class="p-2  transition duration-100 ease-in-out hover:scale-95">
+            <a class="button" href="{{ path('project') }}">Projets</a>
+        </div>
     </div>
 
 </div>
