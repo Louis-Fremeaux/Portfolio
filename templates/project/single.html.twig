@@ -9,15 +9,19 @@
             <div class="p-5 flex items-center justify-around">
                 <h1 class="text-2xl p-5 text-5xl">{{ project.title }}</h1>
                 {% if project.image %}
-                    <img src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="200" height="200">
+                    <img class="rounded-xl" src="{{ asset('images/projects/' ~ project.image) }}" alt="project img" width="200" height="200">
                 {% endif %}
             </div>
             {% if paragraphes %}
-                <div class="p-5">
-                    {% for paragraphe in paragraphes %}
-                        <h2 class="text-3xl underline">{{ paragraphe.titre }}</h2>
-                        <p>{{ paragraphe.text }}</p>
-                    {% endfor %}
+                {% for paragraphe in paragraphes %}
+                    <div class="p-5">
+                    <h2 class="text-3xl underline mb-1">{{ paragraphe.titre }}</h2>
+                    <p>{{ paragraphe.text|raw }}</p>
+                    </div>
+                {% endfor %}
+            {% else %}
+                <div class="p-5 flex items-center justify-around">
+                    <h2 class="text-3xl ">Pas de texte</h2>
                 </div>
             {% endif %}
 
