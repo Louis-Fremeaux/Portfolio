@@ -1,0 +1,15 @@
+{% extends 'base/base.html.twig' %}
+{% use 'base/header.html.twig' %}
+
+{% block title %}Louis - Erreur{% endblock %}
+{% block body %}
+    <h1>Page inexistante</h1>
+    <p>
+        Vérifié votre url, page introuvable.
+       <br>
+        <a href="{{ path('home') }}">Retourner à l'accueil</a>.
+    </p>
+
+{% endblock %}
+
+{% use 'base/footer.html.twig' %}
