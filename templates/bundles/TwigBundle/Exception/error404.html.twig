@@ -3,12 +3,14 @@
 
 {% block title %}Louis - Erreur{% endblock %}
 {% block body %}
-    <h1>Page inexistante</h1>
-    <p>
-        Vérifié votre url, page introuvable.
-       <br>
-        <a href="{{ path('home') }}">Retourner à l'accueil</a>.
-    </p>
+<div class="bg-gris mt-10 mb-10 ml-50 mr-50 pt-10 pb-5 rounded-xl">
+    <div class="flex flex-col items-center">
+        <h1>Vérifié votre url, page introuvable</h1>
+        <p class="text-gold">
+            <a href="{{ path('home') }}">Retourner à l'accueil</a>.
+        </p>
+    </div>
+</div>
 
 {% endblock %}
 
