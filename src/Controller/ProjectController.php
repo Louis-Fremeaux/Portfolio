@@ -2,6 +2,7 @@
 
 namespace App\Controller;
 
+use App\Entity\Image;
 use App\Entity\Paragraphe;
 use App\Entity\Project;
 use Doctrine\ORM\EntityManagerInterface;
@@ -25,10 +26,12 @@ final class ProjectController extends AbstractController
     {
         $project = $entityManager->getRepository(Project::class)->find($id);
         $paragraphes = $entityManager->getRepository(Paragraphe::class)->findBy(['id_project' => $id]);
+        $images = $entityManager->getRepository(Image::class)->findBy(['project' => $id]);
         return $this->render('project/single.html.twig', [
             'controller_name' => 'ProjectController',
             'project'=>$project,
-            'paragraphes'=>$paragraphes
+            'paragraphes'=>$paragraphes,
+            'images'=>$images
         ]);
     }
 }

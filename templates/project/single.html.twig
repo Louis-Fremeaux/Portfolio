@@ -3,6 +3,9 @@
 
 {% block title %}Louis - Projets{% endblock %}
 {% block body %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+
     <div class="bg-gris mt-10 mb-10 ml-50 mr-50 pt-5 pb-5 rounded-xl">
         <a class="text-gold pl-5" href="{{ path('project') }}">← Listes Projets</a>
         {% if project %}
@@ -15,8 +18,22 @@
             {% if paragraphes %}
                 {% for paragraphe in paragraphes %}
                     <div class="p-5">
-                    <h2 class="text-3xl underline mb-1">{{ paragraphe.titre }}</h2>
-                    <p>{{ paragraphe.text|raw }}</p>
+                        <h2 class="text-3xl underline mb-1">{{ paragraphe.titre }}</h2>
+                        <p>{{ paragraphe.text|raw }}</p>
+
+                        {% if paragraphe.images is not empty %}
+                            <div class="mt-3 flex flex-wrap gap-4">
+                                {% for image in paragraphe.images %}
+                                    <a href="{{ asset('/images/paragraphes/' ~ image.ref) }}" data-fancybox="gallery">
+                                        <img
+                                            src="{{ asset('/images/paragraphes/' ~ image.ref) }}"
+                                            alt="{{ image.alt }}"
+                                            class="max-w-xs rounded shadow cursor-pointer hover:opacity-80 transition"
+                                        >
+                                    </a>
+                                {% endfor %}
+                            </div>
+                        {% endif %}
                     </div>
                 {% endfor %}
             {% else %}

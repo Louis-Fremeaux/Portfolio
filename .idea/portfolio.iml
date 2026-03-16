@@ -142,5 +142,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="embed" level="application" />
+    <orderEntry type="library" name="@fancyapps/ui" level="application" />
   </component>
 </module>
