@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Ray Tracing",
+    "text": "Rendu d'image rtx en python",
+    "image": "rtx-img.jpg",
+    "github_link": "https://github.com/Louis-Fremeaux/RayTracingRender"
+  },
+  {
+    "id": 2,
+    "title": "Dioqua",
+    "text": "Stage de 1ère année de BTS SIO",
+    "image": "dioqa.png",
+    "github_link": ""
+  },
+  {
+    "id": 3,
+    "title": "Motion4Ever",
+    "text": "Stage de 2ème année de BTS SIO",
+    "image": "motion4ever.jpg",
+    "github_link": ""
+  },
+  {
+    "id": 4,
+    "title": "MacClip",
+    "text": "Clipboard pour MacOS",
+    "image": "macclip.png",
+    "github_link": "https://github.com/Louis-Fremeaux/MacClip"
+  },
+  {
+    "id": 6,
+    "title": "Veille technologique",
+    "text": "Veille technologique sur la e-santé durant mon bts-sio",
+    "image": "e-sante.jpg",
+    "github_link": null
+  },
+  {
+    "id": 7,
+    "title": "MiniStages44",
+    "text": "Application de la région Loire-Atlantique",
+    "image": "ministage.png",
+    "github_link": null
+  },
+  {
+    "id": 8,
+    "title": "Portfolio",
+    "text": "Détails sur la création de mon portfolio",
+    "image": "favicon.png",
+    "github_link": null
+  }
+]

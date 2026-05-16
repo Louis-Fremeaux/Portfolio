@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "titre": "Compétences : ",
+    "text": "-Travailler en mode projet<br>\n-Développer la présence en ligne de l'organisation<br>\n-Concevoir et développer une solution applicative<br>\n-Réaliser des tests d'intégration et d'acceptation\n\n<br><br>CMS : WordPress, PrestaShop, Langages : PHP, HTML/CSS/JS, Développement Mobile",
+    "id_project_id": 2
+  },
+  {
+    "id": 2,
+    "titre": "MacClip — Clipboard Manager for macOS",
+    "text": "MacClip est un gestionnaire de presse-papiers léger et rapide pour macOS, développé en Swift avec SwiftUI.<br>Il permet d’enregistrer automatiquement l’historique du presse-papiers, de le consulter rapidement, et de recoller n’importe quel élément en un clic ou via un raccourci clavier.",
+    "id_project_id": 4
+  },
+  {
+    "id": 3,
+    "titre": "\uD83D\uDE80 Fonctionnalités",
+    "text": "\uD83D\uDCCB Historique du presse-papiers (texte, éventuellement images si supportées)  \n<br>\uD83D\uDD0D Recherche instantanée dans l’historique éventuellement  \n<br>\uD83C\uDF19 Interface claire et mode sombre natif macOS  \n<br>\uD83E\uDDF9 Clear history voir settings pour automatiser \n<br>\uD83E\uDE9F Intégration dans la barre d'outils  \n<br>\uD83D\uDD12 Respect de la vie privée : tout est stocké localement  ",
+    "id_project_id": 4
+  },
+  {
+    "id": 4,
+    "titre": "\uD83D\uDEE0\uFE0F Technologies utilisées",
+    "text": "Swift\n<br>SwiftUI\n<br>Xcode (macOS 26)",
+    "id_project_id": 4
+  },
+  {
+    "id": 5,
+    "titre": "Présentation de l’entreprise",
+    "text": "Dioqa est une entreprise spécialisée dans le développement web et la gestion de sites internet pour des clients professionnels. Elle accompagne ses clients dans la création, l’évolution et la maintenance de leurs sites, principalement sous WordPress, en mettant l’accent sur la performance, la fiabilité et la centralisation des outils internes.",
+    "id_project_id": 2
+  },
+  {
+    "id": 6,
+    "titre": "Cadre et durée du stage",
+    "text": "Stage de 5 semaines, dans le cadre de ma première année de BTS SIO option SLAM.\nObjectif: se confronter à des projets concrets en agence web et participer activement au développement de solutions web et applicatives.",
+    "id_project_id": 2
+  },
+  {
+    "id": 7,
+    "titre": "Organisation du travail et méthodologie Agile\n",
+    "text": "Le travail était organisé selon une méthodologie Agile de type Scrum.\u2028Chaque journée débutait par un daily scrum, permettant :\n<br>- de faire le point sur l’avancement des tâches\n<br>- d’identifier les éventuels blocages\n<br>- de planifier les actions à venir\n<br>Cette organisation favorisait la communication, le travail en équipe et l’adaptation continue aux besoins des projets.\n",
+    "id_project_id": 2
+  },
+  {
+    "id": 8,
+    "titre": "Réalisation de projets clients – Intégration WordPress",
+    "text": "J’ai participé à la réalisation de deux projets clients, principalement orientés vers l’intégration de sites WordPress.\nMes missions comprenaient :\n<br>- l’intégration de contenus\n<br>- l’adaptation et la configuration de thèmes\n<br>- le respect des besoins fonctionnels exprimés par le client\n<br>- la prise en compte des contraintes techniques et graphiques\n<br>Ces projets m’ont permis de comprendre le cycle de vie d’un site web client, de la demande initiale à la livraison.\n",
+    "id_project_id": 2
+  },
+  {
+    "id": 9,
+    "titre": "Participation au développement d’un site Prestashop sur mesure à partir d’une maquette",
+    "text": "J’ai également réalisé les pages d’un site Prestashop custom, basé sur une maquette fournie.\u2028J’ai fais la mise en page des recettes de cuisine, en respectant fidèlement :\n<br>- la structure définie par la maquette\n<br>- l’ergonomie et l’expérience utilisateur\n<br>- la cohérence graphique\n<br>Ce travail m’a permis de renforcer mes compétences en intégration front-end, en organisation du contenu et en respect des spécifications client.",
+    "id_project_id": 2
+  },
+  {
+    "id": 10,
+    "titre": "Développement d’une application mobile",
+    "text": "Durant le stage, j’ai participé au développement d’une application mobile, intégrée dans l’écosystème des projets de l’entreprise.\nMes missions incluaient :\n<br>- l’analyse des besoins fonctionnels\n<br>- le développement de fonctionnalités\n<br>- la prise en compte des contraintes propres au mobile (ergonomie, fluidité)\n<br>Ce projet m’a permis d’élargir mes compétences au développement applicatif mobile, en complément du développement web.",
+    "id_project_id": 2
+  },
+  {
+    "id": 11,
+    "titre": "Réalisation des tests et validation",
+    "text": "Une phase de tests était systématiquement réalisée sur les développements web et mobiles.\u2028J’ai participé à :\n<br>- la réalisation de tests fonctionnels\n<br>- la vérification des comportements attendus\n<br>- la correction des anomalies détectées\n<br>Ces tests garantissaient la stabilité, la fiabilité et la conformité des solutions avant leur mise en production.",
+    "id_project_id": 2
+  },
+  {
+    "id": 12,
+    "titre": "Développement d’un plugin WordPress interne de gestion",
+    "text": "Un projet majeur du stage a été le développement d’un plugin WordPress interne, destiné à l’administration et à la gestion de l’ensemble des sites gérés par Dioqa.\nCe plugin permet notamment :\n<br>- le suivi des certificats SSL\n<br>- la gestion des noms de domaine\n<br>- l’analyse des User-Agents\n<br>- la centralisation d’informations techniques sur chaque site\n<br>Le Dev lead ma fournie le cahier des charges que j’ai suivie pour réaliser le développement du plugin. J’ai assuré le développement jusqu’à la mise en prod avec le dev lead pour voir le résultat de deux semaine de programmation « prendre vie » et devenir utile.\n",
+    "id_project_id": 2
+  },
+  {
+    "id": 13,
+    "titre": "Bilan du stage et compétences acquises\n",
+    "text": "Ce stage m’a permis de développer et consolider de nombreuses compétences :\n<br>- intégration et développement WordPress\n<br>- développement applicatif mobile\n<br>- réalisation de tests fonctionnels\n<br>- travail en équipe avec méthodologie Agile\n<br>- analyse des besoins et respect des spécifications client\n<br>Cette expérience a renforcé mon intérêt pour le développement applicatif et m’a permis d’acquérir une vision concrète du travail en agence web.\n",
+    "id_project_id": 2
+  },
+  {
+    "id": 15,
+    "titre": "Compétences : ",
+    "text": "-Gérer le patrimoine informatique<br>\n-Mettre à disposition des utilisateurs un service informatique<br>\n-Organiser son développement professionnel\n\n<br><br>HTML / CSS / JavaScript / PHP, Git & GitHub & GitHub Actions, Serveur VPS, google search console",
+    "id_project_id": 8
+  },
+  {
+    "id": 16,
+    "titre": "Compétences : ",
+    "text": "-Organiser son développement professionnel\n\n<br><br>Sujets analysés : Apple Watch (ECG, Apnée du sommeil), AirPods (Prothèse auditive), Apple Vision Pro (Réalité mixte au bloc opératoire), IA et robotique.",
+    "id_project_id": 6
+  },
+  {
+    "id": 17,
+    "titre": "Compétences : ",
+    "text": "-Concevoir et développer une solution applicative<br>\n-Développer des composants d’accès aux données<br>\n-Protéger les données à caractère personnel\n\n<br><br>Framework : Symfony (PHP), Architecture : MVC (Modèle-Vue-Contrôleur), Web Services : API REST, Bases de données relationnelles (SQL)",
+    "id_project_id": 7
+  },
+  {
+    "id": 18,
+    "titre": "Compétences : ",
+    "text": "-Gérer le patrimoine informatique<br>\n-Répondre aux incidents et aux demandes d'évolution<br>\n-Concevoir, développer et faire évoluer une solution applicative<br>\n-Exploiter un schéma de données\n\n<br><br>Frameworks & Langages : Ruby on Rails, Laravel (PHP), Outils internes : Redmine (Ticketing), Environnement : Docker , PrestaShop, Base de données : MySQL / Requêtes SQL avancées , Versionning & Travail collaboratif : Git (gestion des branches et des conflits)",
+    "id_project_id": 3
+  },
+  {
+    "id": 34,
+    "titre": "Compte rendu des activités réalisées durant le stage",
+    "text": null,
+    "id_project_id": 3
+  },
+  {
+    "id": 35,
+    "titre": "Mise en place de l’environnement de travail et découverte des outils\n",
+    "text": "Lors de la première semaine de stage, j’ai commencé par mettre en place mon environnement de développement. Pour cela, j’ai utilisé Docker afin de déployer une instance locale de PrestaShop, ce qui m’a permis de travailler dans un environnement isolé et reproductible. J’ai également découvert le fonctionnement du CMS et plus particulièrement son système de modules.<br><br>\nAprès cette phase de découverte, j’ai effectué un travail d’analyse et de réorganisation des modules présents sur l’instance PrestaShop. J’ai procédé à leur énumération, à leur regroupement et à la suppression de doublons. Certaines modifications ont également été nécessaires, impliquant l’ajout, la modification ou la suppression de portions de code. J’ai ensuite importé les modules dans l’instance PrestaShop et corrigé plusieurs bugs liés aux incompatibilités entre certaines versions de PrestaShop et PHP. Cette étape m’a également permis d’approfondir la compréhension de l’architecture des modules.<br><br>\nUne fois l’environnement stabilisé, j’ai peaufiné la configuration du projet et corrigé différents dysfonctionnements afin de disposer d’une base de travail fiable.",
+    "id_project_id": 3
+  },
+  {
+    "id": 36,
+    "titre": "Travail sur l’outil interne et développement en Ruby on Rails",
+    "text": "Après cette première phase, j’ai été intégré au développement sur l’outil interne de l’entreprise, basé sur Redmine. J’ai commencé par analyser l’organisation du projet et le fonctionnement du système de gestion des tickets.<br><br>\nMes premières tâches consistaient à résoudre différents tickets d’amélioration et de correction. Ces interventions portaient principalement sur l’interface utilisateur et l’expérience utilisateur (UI/UX). Par exemple, j’ai mis en place un tri alphabétique dans certaines listes déroulantes et ajouté des alertes de validation sur des formulaires.<br><br>\nJ’ai ensuite poursuivi le développement en Ruby on Rails, en modifiant et en améliorant plusieurs fonctionnalités du système. Cela incluait notamment la modification de formulaires, l’ajout de nouveaux champs dans les tickets, ainsi que leur affichage et leur stockage en base de données.<br><br>\nDurant les jours suivants, j’ai continué à traiter différents tickets de correction, notamment pour résoudre des bugs existants ou finaliser des fonctionnalités incomplètes laissées par un ancien développeur.",
+    "id_project_id": 3
+  },
+  {
+    "id": 37,
+    "titre": "Développement de nouvelles fonctionnalités et gestion du déploiement",
+    "text": "Au cours de la troisième semaine, j’ai travaillé sur le développement d’une nouvelle fonctionnalité permettant de dupliquer un ticket client d’un contrat vers un autre. Ce développement a été réalisé en Ruby on Rails, en utilisant l’environnement de développement RubyMine de JetBrains ainsi qu’une base de données MySQL locale hébergée dans une machine virtuelle.<br><br>\nUne fois les développements terminés, j’ai participé aux différentes étapes de mise en production. Les fonctionnalités ont été fusionnées dans la branche de développement du projet, puis déployées sur un serveur distant afin d’effectuer des tests. Cette phase m’a également amené à corriger des conflits de fusion (merge conflicts) et à résoudre plusieurs bugs détectés lors des tests.<br><br>\nPar la suite, un ticket urgent concernant la liaison entre les tickets et les contrats m’a été confié. Après la phase de développement, j’ai réalisé les tests et la recette fonctionnelle avant la mise en production. L’ensemble des fonctionnalités développées a pu être déployé sans problème, validant ainsi leur bon fonctionnement.",
+    "id_project_id": 3
+  },
+  {
+    "id": 38,
+    "titre": "Développement d’un nouvel outil de suivi des contrats",
+    "text": "Lors de la dernière partie de mon stage, j’ai participé au lancement d’un nouveau projet visant à dynamiser un tableau Google Sheets de suivi des contrats d’infogérance en l’intégrant dans un site web développé avec Laravel.<br><br>\nDans un premier temps, j’ai participé à la rédaction du cahier des charges et à la réalisation de maquettes fonctionnellesafin de définir les fonctionnalités attendues. J’ai ensuite commencé le développement en créant les tables nécessaires dans la base de données et en mettant en place une première interface permettant d’afficher la liste des contrats d’infogérance.<br><br>\nJ’ai également développé un tableau dynamique permettant de remplacer le suivi manuel sur Google Sheets. Pour cela, j’ai réalisé des requêtes SQL avec jointures entre plusieurs bases de données, notamment pour récupérer des informations provenant de Redmine et les combiner avec les données de la nouvelle base. Cette interface permet également la modification des données et une meilleure organisation des informations.<br><br>\nPar la suite, j’ai apporté plusieurs améliorations à l’outil, notamment la refonte de la barre de navigation, la correction de problèmes CSS et de code existant, ainsi que l’ajout de nouvelles fonctionnalités. Parmi celles-ci figurent l’ajout d’un bouton permettant de générer automatiquement des e-mails préremplis pour la gestion des contrats d’infogérance, l’affichage de la date de mise à jour des contrats en fonction de leur récurrence, ainsi que la liaison avec les utilisateurs afin d’identifier les personnes responsables du suivi de chaque projet.<br><br>\nLes dernières journées ont été consacrées à l’ajout de fonctionnalités demandées par le responsable, aux phases de test, puis au déploiement final en environnement de développement et de production.",
+    "id_project_id": 3
+  },
+  {
+    "id": 39,
+    "titre": "Conclusion\n",
+    "text": "Ce stage m’a permis de découvrir concrètement le fonctionnement d’un environnement de développement professionnel et de participer à plusieurs projets réels. J’ai pu approfondir mes compétences techniques dans différents domaines tels que l’utilisation de Docker, le développement en Ruby on Rails et en Laravel, la gestion de bases de données MySQL, ainsi que le processus de déploiement et de gestion de versions avec Git.<br><br>\nJ’ai également acquis de l’expérience dans la résolution de tickets, la correction de bugs et l’amélioration de fonctionnalités existantes, tout en travaillant sur des outils utilisés quotidiennement par l’entreprise. Cette expérience m’a permis de développer mes compétences techniques mais aussi ma capacité à m’intégrer dans une équipe et à répondre à des besoins concrets.<br><br>\nCe stage constitue ainsi une expérience très enrichissante qui m’a permis de mieux comprendre les méthodes de travail dans le domaine du développement informatique et de renforcer mes compétences dans le cadre de ma formation en BTS SIO.",
+    "id_project_id": 3
+  },
+  {
+    "id": 40,
+    "titre": "E-santé",
+    "text": "Dans le domaine de l'informatique, les technologies évoluent à une vitesse folle. Faire une veille technologique consiste à s'informer régulièrement pour rester à jour sur les dernières innovations, les nouveaux outils et les tendances du marché. C'est une compétence indispensable qui nous est demandé en BTS SIO afin de ne pas se laisser dépasser par les avancées technologiques.",
+    "id_project_id": 6
+  },
+  {
+    "id": 41,
+    "titre": "La HealthTech (Santé & Technologies)",
+    "text": "Pour ce projet, j'ai choisi de suivre l'évolution des technologies liées à la santé sur les deux dernières années (2024 - 2026). Mon but est de montrer comment la tech grand public et l'innovation médicale ont fini par se rejoindre.\n<br><br><strong><u>La santé connectée (IoT & Wearables) :</u></strong> Comment les accessoires que nous portons tous les jours (Apple Watch, écouteurs, bagues connectées Samsung) sont devenus de véritables dispositifs médicaux capables d'analyser notre santé.\n<br><br><strong><u>La technologie à l'hôpital :</u></strong> Comment les médecins et chirurgiens utilisent l'Intelligence Artificielle et les casques de réalité mixte (comme l'Apple Vision Pro) pour opérer avec plus de précision.",
+    "id_project_id": 6
+  },
+  {
+    "id": 42,
+    "titre": "Apple",
+    "text": "Les objets connectés sont devenus de véritables outils de suivi médical. Durant la période 2024 / 2026 nous avons vraiment vécu une transition de simple iot / gadget au dispositif médical reconnu. Comme par exemple avec l’apple Watch ou les airpods.\u2028",
+    "id_project_id": 6
+  },
+  {
+    "id": 43,
+    "titre": null,
+    "text": "L'Apple Watch est passée d'une simple montre connectée à une véritable folie technologique dédiée à notre santé globale. Elle embarque désormais des capteurs biométriques de pointe permettant de réaliser un ECG validé médicalement, de surveiller la fréquence cardiaque en continu et de mesurer précisément le taux d'oxygène dans le sang. Ce suivi H24 s'étend à nos nuits avec une analyse détaillée du sommeil couplée à la nouvelle détection clinique de l'apnée du sommeil. Enfin, elle agit comme un véritable ange gardien au quotidien en intégrant la détection d'arythmie, l'analyse de la stabilité de la marche pour prévenir les chutes, et même la détection d'accidents de voiture grave pour appeler les secours automatiquement.",
+    "id_project_id": 6
+  },
+  {
+    "id": 44,
+    "titre": null,
+    "text": "Tout comme la montre, les AirPods ont largement dépassé leur simple fonction d'écouteurs pour devenir de véritables dispositifs de santé auditive invisibles. Grâce à leur réduction de bruit active intelligente, ils agissent d'abord comme une protection permanente en filtrant automatiquement les sons environnants dangereux pour les tympans. La grande révolution est l'intégration d'un test auditif de qualité clinique, réalisable en quelques minutes directement depuis son smartphone. Si une baisse d'audition est détectée, le logiciel transforme instantanément les écouteurs en véritable prothèse auditive certifiée, amplifiant les fréquences manquantes et les voix en temps réel pour corriger l'audition de l'utilisateur au quotidien. Réalisant même l’intermédiaire direct de traduction pour les discutions avec un interlocuteur étranger.",
+    "id_project_id": 6
+  },
+  {
+    "id": 45,
+    "titre": "La Technologie à l'Hôpital (Chirurgie 2.0 et IA) ",
+    "text": "Du côté des professionnels de santé, la technologie a littéralement transformé les blocs opératoires et les cabinets médicaux. Les hôpitaux intègrent aujourd'hui des outils informatiques surpuissants pour assister les chirurgiens et optimiser le suivi des patients.\n",
+    "id_project_id": 6
+  },
+  {
+    "id": 46,
+    "titre": null,
+    "text": "L'une des plus grandes révolutions de ces deux dernières années est l'entrée de la réalité mixte au bloc opératoire. Avec des casques de pointe comme l'Apple Vision Pro, les chirurgiens n'ont plus besoin de détourner le regard vers des écrans externes pendant une opération. Le casque permet de superposer directement dans leur champ de vision les constantes vitales du patient en temps réel, ainsi que des modélisations 3D parfaites de ses organes sous forme d'hologrammes. Cela réduit la fatigue visuelle et augmente considérablement la précision lors d'interventions chirurgicales complexes ou délicates.",
+    "id_project_id": 6
+  },
+  {
+    "id": 47,
+    "titre": null,
+    "text": "En parallèle, l'Intelligence Artificielle et la robotique repoussent les limites de la médecine moderne. Les bras robotisés utilisés en chirurgie intègrent désormais des capteurs de retour de force et des algorithmes d'IA, permettant au médecin d'opérer avec une précision infime tout en \"ressentant\" virtuellement les tissus à distance. L'IA agit également comme un véritable \"copilote\" au quotidien : elle est capable d'analyser des milliers de radiographies en quelques secondes pour détecter des tumeurs invisibles à l'œil nu, ou encore de retranscrire vocalement les consultations pour rédiger automatiquement les comptes-rendus, libérant ainsi un temps précieux pour les médecins.",
+    "id_project_id": 6
+  },
+  {
+    "id": 49,
+    "titre": "Mission 1 : Réalisation de projets clients (WordPress & PrestaShop)",
+    "text": "<strong>Problématique :</strong><br> Comment traduire fidèlement les besoins fonctionnels et graphiques des clients pour leur livrer des sites web performants et ergonomiques ?\n<br><br>\n<strong>Tâches pour résoudre :</strong>\n<dd>Comprendre le cycle de vie du projet client.\n<dd>Intégrer les contenus et configurer les thèmes WordPress.\n<dd>Intégrer une maquette spécifique sur PrestaShop.\n<br><br>\n<strong>Ce que j’ai fait :</strong> J'ai réalisé l'intégration front-end de plusieurs sites. J'ai notamment développé les pages de \"recettes de cuisine\" sur un site PrestaShop sur-mesure, en assurant une intégration \"pixel-perfect\" qui respectait fidèlement la structure de la maquette, la cohérence graphique et l'expérience utilisateur (UX).\n<br><br>\n<strong>Résultat obtenu :</strong> Des interfaces web livrées dans les temps, conformes aux exigences techniques et visuelles des clients.\n<br><br>\n<strong>Compétences acquises :</strong>\n<dd>Développer la présence en ligne de l’organisation.\n<dd>Travailler en mode projet.",
+    "id_project_id": null
+  },
+  {
+    "id": 50,
+    "titre": "Présentation du projet Ministages44",
+    "text": null,
+    "id_project_id": 7
+  },
+  {
+    "id": 51,
+    "titre": "Analyse de l’existant et définition des besoins",
+    "text": "Dans le cadre des Ateliers de Professionnalisation (AP) de ma formation en BTS SIO, spécialité SLAM, j'ai participé au développement du projet « Ministages44 », une application web destinée à la région. Ce projet a été réalisé au sein d'une équipe de sept développeurs. Notre première mission a consisté à rencontrer le responsable du projet afin d'étudier le système existant et de recueillir précisément ses attentes. Cette phase d'analyse nous a permis de définir les spécifications fonctionnelles de la future application et d'orienter nos choix technologiques vers une architecture découplée.",
+    "id_project_id": 7
+  },
+  {
+    "id": 52,
+    "titre": "Organisation du travail en équipe et méthodologie",
+    "text": "Étant donné la taille de notre équipe, il était indispensable de structurer rigoureusement notre méthode de travail. Nous avons donc adopté une approche agile en mode Kanban, en nous appuyant sur un tableau de suivi de projet intégré à GitHub. Cela nous a permis de lister, de répartir et de suivre l'avancement des différentes tâches de manière transparente.\n\nPour assurer un travail collaboratif efficace sur le code source, nous avons mis en place des règles strictes de versioning avec Git. Notre flux de travail s'articulait autour d'une arborescence classique et sécurisée : une branche main pour les versions stables, une branche dev pour l'intégration continue, et des branches feature dédiées au développement de chaque nouvelle fonctionnalité. De plus, nous avons défini et appliqué des conventions de codage communes afin de garantir la lisibilité et l'homogénéité du code produit par l'ensemble du groupe.",
+    "id_project_id": 7
+  },
+  {
+    "id": 53,
+    "titre": "Développement de l'API REST et de l'interface Web en Symfony",
+    "text": "Sur le plan technique, nous avons scindé le développement en deux grands axes. Dans un premier temps, nous avons conçu et mis en place une API REST robuste en utilisant le framework Symfony couplé à API Platform. Cette API avait pour rôle de centraliser la logique métier, la gestion de la base de données et de sécuriser les différents points de terminaison (endpoints).\n<br><br>Dans un second temps, nous avons développé le front-end web, également basé sur Symfony, en utilisant le moteur de templates Twig pour générer les interfaces utilisateurs. J'ai ainsi pu participer au développement des différentes vues, à l'intégration des éléments graphiques et à la mise en place des requêtes permettant au front-end de consommer les données fournies par notre API REST.",
+    "id_project_id": 7
+  },
+  {
+    "id": 54,
+    "titre": "Conclusion",
+    "text": "Le projet Ministages44 a été une expérience particulièrement formatrice. Il m'a permis de me confronter à la réalité du travail en équipe élargie et de mesurer l'importance d'une bonne communication et d'une méthodologie rigoureuse. J'ai pu consolider mes compétences techniques sur le framework Symfony (API Platform et Twig), tout en maîtrisant des outils professionnels incontournables comme Git et les tableaux Kanban.\n\nCette expérience illustre ma capacité à m'intégrer dans un processus de développement collaboratif standardisé et à répondre à des besoins clients concrets, validant ainsi de nombreux acquis essentiels de mon cursus en BTS SIO.",
+    "id_project_id": 7
+  },
+  {
+    "id": 55,
+    "titre": "Le diabète",
+    "text": "Le suivi du diabète a lui aussi connu une révolution technologique majeure en se libérant des contraintes matérielles du passé. Fini l'époque où les patients devaient s'encombrer d'un gros lecteur spécifique pour scanner manuellement et régulièrement leur patch (comme les anciennes générations de FreeStyle). Aujourd'hui, les capteurs de glycémie en continu intègrent directement des puces Bluetooth Low Energy qui envoient les taux de sucre en temps réel et de manière 100% automatique vers le smartphone. Le téléphone devient l'unique interface médicale : il génère des graphiques précis de la glycémie, envoie des notifications d'alerte instantanées en cas de chute de sucre, et permet de partager ces datas de santé en direct via le cloud avec le médecin traitant ou les proches. C'est l'exemple parfait de l'IoT (Internet des Objets) qui simplifie le quotidien tout en sécurisant la vie du patient.",
+    "id_project_id": 6
+  },
+  {
+    "id": 56,
+    "titre": "\uD83D\uDE80 Conclusion",
+    "text": "Entre 2024 et 2026, le domaine de la HealthTech a connu une évolution rapide et marquante. La frontière entre technologie grand public et médecine devient de plus en plus floue. Les objets connectés permettent aujourd’hui un suivi continu de la santé, tandis que les hôpitaux utilisent des technologies avancées pour améliorer la précision des soins.\n<br><br>Ces innovations contribuent à une médecine plus préventive, plus personnalisée et plus efficace. Cependant, elles soulèvent également des enjeux importants, notamment en matière de fiabilité, de sécurité des données et d’éthique.\n<br><br>À l’avenir, la technologie devrait continuer à transformer le secteur médical, avec des systèmes toujours plus intelligents et intégrés dans le quotidien des patients comme des professionnels de santé.",
+    "id_project_id": 6
+  },
+  {
+    "id": 57,
+    "titre": "Le contexte du projet",
+    "text": "Dans le cadre de mon BTS SIO, j'ai dû concevoir un portfolio professionnel pour exposer mes compétences, mes projets et ma veille technologique. Plus qu'un simple site vitrine, j'ai abordé ce portfolio comme un véritable projet de développement complet, allant de l'analyse des besoins jusqu'au déploiement automatisé sur un serveur.",
+    "id_project_id": 8
+  },
+  {
+    "id": 58,
+    "titre": "Analyse et Conception (UX/UI)",
+    "text": "Avant de coder, j'ai commencé par une phase d'étude. J'ai analysé plusieurs exemples de portfolios fournis par mes professeurs afin d'identifier les bonnes pratiques d'ergonomie (ce qu'il faut faire) et les erreurs de navigation à éviter. En croisant cette analyse avec mes propres recherches sur internet, j'ai pu réaliser la maquette de mon site, pensée pour être intuitive et professionnelle.",
+    "id_project_id": 8
+  },
+  {
+    "id": 59,
+    "titre": "Développement Back-end et Front-end",
+    "text": "Pour la partie technique, j'ai choisi de développer l'application avec le framework PHP Symfony, couplé au moteur de template Twig pour la gestion des vues. L'ensemble des données dynamiques du site (comme la liste de mes projets ou les articles de ma veille) est stocké de manière sécurisée sur une base de données MySQL.",
+    "id_project_id": 8
+  },
+  {
+    "id": 60,
+    "titre": "Versioning et DevOps (Mise en production)",
+    "text": "La gestion du code source a été assurée via GitHub pour le versioning. Afin d'adopter une démarche professionnelle (DevOps), j'ai mis en place un système de déploiement automatisé : chaque nouvelle modification validée sur GitHub est directement déployée sur mon serveur distant, un VPS DigitalOcean. C'est également sur ce VPS que ma base de données MySQL est hébergée.",
+    "id_project_id": 8
+  },
+  {
+    "id": 61,
+    "titre": "Nom de domaine et Référencement (SEO)",
+    "text": "Pour finaliser l'identité numérique de mon projet, j'ai fait l'acquisition d'un nom de domaine personnalisé grâce au GitHub Student Developer Pack. Enfin, pour garantir la visibilité de mon portfolio en ligne, j'ai intégré et configuré la Google Search Console, me permettant de suivre l'indexation de mes pages et d'optimiser mon référencement naturel (SEO).",
+    "id_project_id": 8
+  }
+]

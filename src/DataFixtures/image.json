@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "ref": "prestashop.png",
+    "paragraphe_id": 35,
+    "project_id": 3,
+    "alt": "prestashop dashboard"
+  },
+  {
+    "id": 2,
+    "ref": "docker.png",
+    "paragraphe_id": 35,
+    "project_id": 3,
+    "alt": "docker hub"
+  },
+  {
+    "id": 3,
+    "ref": "redmine.png",
+    "paragraphe_id": 36,
+    "project_id": 3,
+    "alt": "redmine"
+  },
+  {
+    "id": 4,
+    "ref": "ticketRedmine.png",
+    "paragraphe_id": 36,
+    "project_id": 3,
+    "alt": "ticket sur redmine"
+  },
+  {
+    "id": 5,
+    "ref": "coderuby.png",
+    "paragraphe_id": 36,
+    "project_id": 3,
+    "alt": "code ruby sur rubymine idea"
+  },
+  {
+    "id": 8,
+    "ref": "tools.png",
+    "paragraphe_id": 38,
+    "project_id": 3,
+    "alt": "tools avant"
+  },
+  {
+    "id": 9,
+    "ref": "tools2.png",
+    "paragraphe_id": 38,
+    "project_id": 3,
+    "alt": "tools avec gestion de contrat"
+  },
+  {
+    "id": 10,
+    "ref": "tempsPasser.png",
+    "paragraphe_id": 36,
+    "project_id": 3,
+    "alt": "schema du module temps passer par ticket"
+  },
+  {
+    "id": 11,
+    "ref": "rapport.png",
+    "paragraphe_id": 37,
+    "project_id": 3,
+    "alt": "schema du module temps passer par ticket"
+  },
+  {
+    "id": 12,
+    "ref": "rapport2.png",
+    "paragraphe_id": 37,
+    "project_id": 3,
+    "alt": "schema du module temps passer par ticket"
+  },
+  {
+    "id": 13,
+    "ref": "rapport3.png",
+    "paragraphe_id": 37,
+    "project_id": 3,
+    "alt": "schema du module temps passer par ticket"
+  },
+  {
+    "id": 14,
+    "ref": "dupliquerTicket.png",
+    "paragraphe_id": 37,
+    "project_id": 3,
+    "alt": "image d'un bouton dupliquer un ticket"
+  },
+  {
+    "id": 15,
+    "ref": "dupliquerTicket2.png",
+    "paragraphe_id": 37,
+    "project_id": 3,
+    "alt": "menu de duplication du ticket"
+  },
+  {
+    "id": 16,
+    "ref": "watch1.jpg",
+    "paragraphe_id": 43,
+    "project_id": 6,
+    "alt": "image d'apple watch feature 1"
+  },
+  {
+    "id": 17,
+    "ref": "watch2.jpg",
+    "paragraphe_id": 43,
+    "project_id": 6,
+    "alt": "image d'apple watch feature 2"
+  },
+  {
+    "id": 18,
+    "ref": "watch3.jpg",
+    "paragraphe_id": 43,
+    "project_id": 6,
+    "alt": "image d'apple watch feature 3"
+  },
+  {
+    "id": 19,
+    "ref": "watch4.jpg",
+    "paragraphe_id": 43,
+    "project_id": 6,
+    "alt": "image d'apple watch feature 4"
+  },
+  {
+    "id": 20,
+    "ref": "watch5.jpg",
+    "paragraphe_id": 43,
+    "project_id": 6,
+    "alt": "image d'apple watch feature 5"
+  },
+  {
+    "id": 22,
+    "ref": "airpod1.png",
+    "paragraphe_id": 44,
+    "project_id": 6,
+    "alt": "image airpod feature 1"
+  },
+  {
+    "id": 23,
+    "ref": "airpod2.png",
+    "paragraphe_id": 44,
+    "project_id": 6,
+    "alt": "image airpod feature 2"
+  },
+  {
+    "id": 24,
+    "ref": "airpod3.png",
+    "paragraphe_id": 44,
+    "project_id": 6,
+    "alt": "image airpod feature 3"
+  },
+  {
+    "id": 25,
+    "ref": "visionpro.jpg",
+    "paragraphe_id": 46,
+    "project_id": 6,
+    "alt": "image medecin avec vision pro"
+  },
+  {
+    "id": 26,
+    "ref": "robotmedecin1.jpg",
+    "paragraphe_id": 47,
+    "project_id": 6,
+    "alt": "image medecin avec robt 1"
+  },
+  {
+    "id": 27,
+    "ref": "robotmedecin2.jpg",
+    "paragraphe_id": 47,
+    "project_id": 6,
+    "alt": "image medecin avec robot 2"
+  },
+  {
+    "id": 28,
+    "ref": "organigram.png",
+    "paragraphe_id": 6,
+    "project_id": 2,
+    "alt": "image organigram"
+  },
+  {
+    "id": 29,
+    "ref": "maquette1.png",
+    "paragraphe_id": 9,
+    "project_id": 2,
+    "alt": "image de maquette 1"
+  },
+  {
+    "id": 30,
+    "ref": "maquette2.png",
+    "paragraphe_id": 9,
+    "project_id": 2,
+    "alt": "image de maquette 2"
+  },
+  {
+    "id": 31,
+    "ref": "maquette3.png",
+    "paragraphe_id": 9,
+    "project_id": 2,
+    "alt": "image de maquette 3"
+  },
+  {
+    "id": 32,
+    "ref": "integration.png",
+    "paragraphe_id": 8,
+    "project_id": 2,
+    "alt": "image d'intégration wordpress"
+  },
+  {
+    "id": 33,
+    "ref": "cahiercharges.png",
+    "paragraphe_id": 8,
+    "project_id": 2,
+    "alt": "image exemple cahier des charges"
+  },
+  {
+    "id": 34,
+    "ref": "chartegraphique.png",
+    "paragraphe_id": 8,
+    "project_id": 2,
+    "alt": "image exemple charte graphique"
+  },
+  {
+    "id": 35,
+    "ref": "pluginwordpress.png",
+    "paragraphe_id": 12,
+    "project_id": 2,
+    "alt": "image plugin wordpress"
+  },
+  {
+    "id": 36,
+    "ref": "appmobile1.png",
+    "paragraphe_id": 10,
+    "project_id": 2,
+    "alt": "image d'app mobile"
+  },
+  {
+    "id": 37,
+    "ref": "appmobile2.png",
+    "paragraphe_id": 10,
+    "project_id": 2,
+    "alt": "image d'app mobile 2"
+  },
+  {
+    "id": 38,
+    "ref": "convention.png",
+    "paragraphe_id": 52,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 39,
+    "ref": "diagrame.png",
+    "paragraphe_id": 51,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 40,
+    "ref": "role.png",
+    "paragraphe_id": 52,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 41,
+    "ref": "kaban.png",
+    "paragraphe_id": 52,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 42,
+    "ref": "usecase1.png",
+    "paragraphe_id": 51,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 43,
+    "ref": "usecase2.png",
+    "paragraphe_id": 51,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 44,
+    "ref": "ministage1.png",
+    "paragraphe_id": 53,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 45,
+    "ref": "ministages2.png",
+    "paragraphe_id": 53,
+    "project_id": 7,
+    "alt": "image ministage"
+  },
+  {
+    "id": 46,
+    "ref": "diabete1.jpg",
+    "paragraphe_id": 55,
+    "project_id": 6,
+    "alt": "image de freestyle diabete"
+  },
+  {
+    "id": 47,
+    "ref": "diabete2.jpg",
+    "paragraphe_id": 55,
+    "project_id": 6,
+    "alt": "image de freestyle diabete"
+  },
+  {
+    "id": 48,
+    "ref": "plugin1.png",
+    "paragraphe_id": 12,
+    "project_id": 2,
+    "alt": "image plugin wordpress"
+  },
+  {
+    "id": 49,
+    "ref": "plugin2.png",
+    "paragraphe_id": 12,
+    "project_id": 2,
+    "alt": "image plugin wordpress"
+  },
+  {
+    "id": 50,
+    "ref": "plugin3.png",
+    "paragraphe_id": 12,
+    "project_id": 2,
+    "alt": "image plugin wordpress"
+  },
+  {
+    "id": 51,
+    "ref": "apiplatform.png",
+    "paragraphe_id": 53,
+    "project_id": 7,
+    "alt": "image api platform"
+  },
+  {
+    "id": 52,
+    "ref": "apiplatform2.png",
+    "paragraphe_id": 53,
+    "project_id": 7,
+    "alt": "image api platform"
+  },
+  {
+    "id": 53,
+    "ref": "devops.png",
+    "paragraphe_id": 60,
+    "project_id": 8,
+    "alt": "image mise en prod"
+  },
+  {
+    "id": 54,
+    "ref": "devops2.png",
+    "paragraphe_id": 60,
+    "project_id": 8,
+    "alt": "image mise en prod"
+  },
+  {
+    "id": 55,
+    "ref": "devops3.png",
+    "paragraphe_id": 60,
+    "project_id": 8,
+    "alt": "image mise en prod"
+  },
+  {
+    "id": 56,
+    "ref": "seo.png",
+    "paragraphe_id": 61,
+    "project_id": 8,
+    "alt": "image google seo"
+  },
+  {
+    "id": 57,
+    "ref": "seo2.png",
+    "paragraphe_id": 61,
+    "project_id": 8,
+    "alt": "image google seo"
+  },
+  {
+    "id": 58,
+    "ref": "seo3.png",
+    "paragraphe_id": 61,
+    "project_id": 8,
+    "alt": "image google seo"
+  },
+  {
+    "id": 59,
+    "ref": "moqup.png",
+    "paragraphe_id": 58,
+    "project_id": 8,
+    "alt": "image des maquettes portfolio"
+  },
+  {
+    "id": 60,
+    "ref": "moqup2.png",
+    "paragraphe_id": 58,
+    "project_id": 8,
+    "alt": "image des maquettes portfolio"
+  },
+  {
+    "id": 61,
+    "ref": "moqup3.png",
+    "paragraphe_id": 58,
+    "project_id": 8,
+    "alt": "image des maquettes portfolio"
+  },
+  {
+    "id": 62,
+    "ref": "codePortfolio.png",
+    "paragraphe_id": 59,
+    "project_id": 8,
+    "alt": "image de code symfony"
+  },
+  {
+    "id": 63,
+    "ref": "codePortfolio2.png",
+    "paragraphe_id": 59,
+    "project_id": 8,
+    "alt": "image de code symfony"
+  }
+]
